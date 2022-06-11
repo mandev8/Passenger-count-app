@@ -1,0 +1,25 @@
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+h2 {
+    font-size: 35px;
+}
+#increment-btn {
+    background-color: red;
+    border: none;
+    padding: 10px;
+    
+}
+#save-btn {
+    background-color: green;
+    border: none;
+    padding: 10px;
+}
+button, p{
+    font-weight: bold;
+}
